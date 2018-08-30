@@ -59,14 +59,14 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A71A34658C195D344E889EE1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A71A34658C195D344E889EE1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		AC48BA89ABA5060B8D3DD7F6 /* Pods-JCModel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JCModel_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JCModel_Tests/Pods-JCModel_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		B2EC4EEB488FEBF0C0E20423 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B2EC4EEB488FEBF0C0E20423 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		B38E586CEE56663403DE0461 /* Pods-JCModel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JCModel_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JCModel_Example/Pods-JCModel_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C42E6DEEA88D5EEFBCEB3045 /* Pods-JCModel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JCModel_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-JCModel_Example/Pods-JCModel_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D42C1A3BDB1FB88093AB6581 /* Pods_JCModel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JCModel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D64FAB756D45815292FC5F41 /* Pods_JCModel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JCModel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EC1546C31258D2F10C2407E3 /* JCModel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JCModel.podspec; path = ../JCModel.podspec; sourceTree = "<group>"; };
+		EC1546C31258D2F10C2407E3 /* JCModel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JCModel.podspec; path = ../JCModel.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

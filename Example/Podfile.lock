@@ -1,0 +1,16 @@
+PODS:
+  - JCModel (0.1.0)
+
+DEPENDENCIES:
+  - JCModel (from `../`)
+
+EXTERNAL SOURCES:
+  JCModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JCModel: 1f73d77a843546f85d5be3189cb47e6078e8dfde
+
+PODFILE CHECKSUM: 69307b3fca689d44608bddcaf226986ebbf711ec
+
+COCOAPODS: 1.5.3

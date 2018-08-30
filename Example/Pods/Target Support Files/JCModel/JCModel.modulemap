@@ -1,0 +1,6 @@
+framework module JCModel {
+  umbrella header "JCModel-umbrella.h"
+
+  export *
+  module * { export * }
+}
