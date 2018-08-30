@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JCModel_Example' do
+  pod 'JCModel', :path => '../'
+
+  target 'JCModel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
